@@ -6,5 +6,5 @@ After we successfully loaded embeddings into FAISS, we will then start querying 
 1. Colab notebook version: https://github.com/Jencheng1/Jen-rag-chatbot-aws-bedrock/blob/main/Jennifer_cheng_aws_bedrock_rag_colab_fraud_qa.ipynb
 2. Used Streamlit as UI: https://github.com/Jencheng1/Jen-rag-chatbot-aws-bedrock/blob/main/rag_chatbot_app.py
 3. Used Langchain and AWS Bedrock as back-end for RAG: https://github.com/Jencheng1/Jen-rag-chatbot-aws-bedrock/blob/main/jen_rag_chat_lib.py
-4. 
+   
 
